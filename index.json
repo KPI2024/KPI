@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar",
+  "spider": "https://raw.githubusercontent.com/KPI2024/KPI/main/jar/spider.jar",
   "sites": [],
   "lives": []
 }
